@@ -1,0 +1,25 @@
+body {
+  text-align:center;
+  background-color:#F57F17;
+}
+#text_input1 {
+  background-color:#00695C;
+  width:1000px;
+  height:30px;
+  font-size:25px;
+  margin:30px;
+}
+#btn1 {
+  width:240px;
+  height:70px;
+  font-size:40px;
+  border-radius:80px;
+  background-color:#03A9F4;
+}
+div {
+  margin:45px;
+  font-size:30px;
+}
+h1 {
+  font-size:60px;
+}
